@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Karafizi Artur -- Developer -- KarafiziArtur -- karafizi.com
+
+# THANKS
+
+    God
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JavaScript, PHP
+    Bootstrap, Ajax, jQuery, Modernizr, Animate.css, wow.js, magnificPopup, countTo, scrollSpy
